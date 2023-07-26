@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Feito a principio para ser usado como portifólio, podendo ser utilizado de forma profissional em um furturo próximo.
 
-## Status
+## 🟠🟡🟢Status
 
 Ainda em desenvolvimento...
 

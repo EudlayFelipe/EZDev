@@ -1,4 +1,4 @@
-<h1 align="center">Landing_Page_EZDev </h1>
+<h1 align="center">LandingPage_EZDev </h1>
 
 
 
@@ -15,9 +15,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/Preview.jpg" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias
 

@@ -168,3 +168,19 @@ body{
     display: block;
     margin: 0 auto;
 }
+
+
+@media screen and (max-width: 768px){
+    .h{
+        width: 100%;
+        flex-direction: column;
+    }
+    .m-content{
+        width: 100%;
+        flex-direction: column;
+    }
+    .Icons{
+        display: block;
+        max-width: 100%;
+    }
+}

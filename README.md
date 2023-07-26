@@ -1,4 +1,4 @@
-<h1 align="center">LandingPage_EZDev </h1>
+<h1 align="center">Landing_Page_EZDev </h1>
 
 
 
@@ -31,9 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Feito a principio para ser usado como portifólio
-
-
-
 
 ## :memo: Licença
 

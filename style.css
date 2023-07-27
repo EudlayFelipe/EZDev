@@ -180,8 +180,7 @@ body{
         flex-direction: column;
     }
     .Icons{
-        display: flex;
-        flex-direction: column;
+        display: block;
         max-width: 100%;
     }
 }

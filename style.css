@@ -106,13 +106,14 @@ body{
     height: 430px;
     padding-top: 70px;
     margin-right: 40px;
-    
+
+    animation: img 5s infinite ease-in-out;
 }
 
 .img-content:hover{
-    transform: translateY(-10px);
-    transition: 0.3s;
+    cursor: pointer;
 }
+
 
 .Icons{
     display: flex;
@@ -186,5 +187,11 @@ body{
     }
     .about{
         padding: 24px;
+    }
+}
+
+@keyframes img{
+    50%{
+        transform: translateY(-6%);
     }
 }

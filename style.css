@@ -184,4 +184,7 @@ body{
         display: block;
         max-width: 100%;
     }
+    .about{
+        padding: 24px;
+    }
 }

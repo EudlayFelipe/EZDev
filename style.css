@@ -178,6 +178,7 @@ body{
     .m-content{
         width: 100%;
         flex-direction: column;
+        padding: 24px;
     }
     .Icons{
         display: block;

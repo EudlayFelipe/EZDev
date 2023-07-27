@@ -15,7 +15,7 @@
 
 <br>
 
-## Link
+## 🔗 Link
 
 https://eudlayfelipe.github.io/EZDev/
 
